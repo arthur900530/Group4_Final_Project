@@ -2,7 +2,7 @@
 public class Answer {
 	String name;
 	Boolean rightOrWrong;
-	
+//	test
 	public Answer(String name, Boolean rightOrWrong) {
 		this.name = name;
 		this.rightOrWrong = rightOrWrong;
